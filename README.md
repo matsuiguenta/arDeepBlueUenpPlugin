@@ -6,4 +6,4 @@ We track your content with git and publish it to a GitHub repository so we can a
 
 ## Screenshot
 
-![Screenshot](images/image.big.png)
+![Screenshot](images/image-big.png)
